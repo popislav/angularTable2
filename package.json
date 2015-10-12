@@ -1,0 +1,9 @@
+{
+  "name": "angularTable2",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.14.1",
+    "express": "4.13.3",
+    "mongojs": "1.4.0"
+  }
+}
